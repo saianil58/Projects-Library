@@ -13,10 +13,10 @@ You may reach me whenever you want to get further information about projects.
 |[Tensorflow Keras Model Deployment](#Tensorflow-Keras-Model-Deployment)|`Deployment`, `Deep Learning` |`Keras`, `Flask`, `PIL`, `base64`|[Click](https://github.com/saianil58/Keras-Model-Deployment)|
 |[Telecom Churn Classification using Spark](#Telecom-Churn-Classification-using-Spark)|`Classification`, `GBTClassifier`, `RandomForestClassifier`, `DecisionTreeClassifier` |`pyspark`, `koalas`, `mllib`|[Click](https://nbviewer.jupyter.org/github/saianil58/ML-with-SPARK/blob/master/Churn%20Classification%20Spark.ipynb)|
 |[Fashion MNIST Classification](#Fashion-MNIST-Classification)|`Classification`, `DeepLearning`, `ANN` |`Keras`, `plotly`|[Click](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/master/Image%20Classifications/Fashion_images.ipynb)|
-|[Bank Churn Prediction using ANN](#Bank-Churn-Prediction-using-ANN)|`Classification`, `DeepLearning`, `ANN`, `Statistical Tests` |`Keras`, `AutoViz`, `plotly`, `pandas`, `seaborn`, `TALOS`|[Click](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/master/Binary%20Classification/Bank%20Churn%20Prediction%20using%20ANN.ipynb)|
+|[Bank Customer Churn Modelling using Neural Networks](#Bank-Customer-Churn-Modelling-using-Neural-Networks)|`Classification`, `DeepLearning`, `ANN`, `Statistical Tests` |`Keras`, `AutoViz`, `plotly`, `pandas`, `seaborn`, `TALOS`|[Click](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/master/Binary%20Classification/Bank%20Churn%20Prediction%20using%20ANN.ipynb)|
 |[HR Analytics and classification using ANN](#HR-Analytics-and-classification-using-ANN)|`Classification`, `DeepLearning`, `ANN` |`Keras`, `AutoViz`, `plotly`, `pandas`, `seaborn`,`StratifiedKFold`|[Click](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/master/Binary%20Classification/binary_classification_keras.ipynb)|
 |[ML Model Deployment](#ML-Model-Deployment)|`Deployment` |`pickle`, `flask`, `ensemble`, `pandas`|[Click](https://github.com/saianil58/Model_Deployment)|
-|[Clustering of Different Cars](#Clustering-of-Different-Cars)|`UnSupervised learning` |`plotly`, `AgglomerativeClustering`, `K-Means`, `Dendograms`, `silhouette`|[Click](https://nbviewer.jupyter.org/github/saianil58/Unsupervised-Learning/blob/master/Cars%20Clustering%20.ipynb)|
+|[Clustering cars based on attributes](#Clustering-cars-based-on-attributes)|`UnSupervised learning` |`plotly`, `AgglomerativeClustering`, `K-Means`, `Dendograms`, `silhouette`|[Click](https://nbviewer.jupyter.org/github/saianil58/Unsupervised-Learning/blob/master/Cars%20Clustering%20.ipynb)|
 
 Please, scroll down to see the details of projects comprehensively and visit their repository.
 
@@ -29,8 +29,12 @@ Please, scroll down to see the details of projects comprehensively and visit the
 ### Fashion MNIST Classification
 ---
 
-### Bank Churn Prediction using ANN
+### Bank Customer Churn Modelling using Neural Networks
 ---
+This Kaggle project involves building an ANN-based churn model which can determine whether certain bank customers will continue using their service or not. The ANN model analyzes the relationship between customer churn & multiple independent variables affecting churn. Recommendations for improvements in service were suggested based on the results of the analysis.
+
+#### Skills and Tools
+Neural Networks, Classification, Keras, Tensorflow
 
 ### HR Analytics and classification using ANN
 ---
@@ -38,5 +42,9 @@ Please, scroll down to see the details of projects comprehensively and visit the
 ### ML Model Deployment
 ---
 
-### Clustering of Different Cars
+### Clustering cars based on attributes
 ---
+Analyzed cars dataset and performed exploratory data analysis and then categorized them using K means clustering. Used linear regression on the different clusters and estimated coefficients.
+
+#### Skills and Tools
+K means clustering, Hierarchical clustering, EDA, Linear Regression
