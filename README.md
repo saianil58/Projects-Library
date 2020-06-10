@@ -17,3 +17,19 @@ You may reach me whenever you want to get further information about projects.
 |HR Analytics and classification using ANN|`Classification`, `DeepLearning`, `ANN` |`Keras`, `AutoViz`, `plotly`, `pandas`, `seaborn`,`StratifiedKFold`|[Click](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/master/Binary%20Classification/binary_classification_keras.ipynb)|
 |ML Model Deployment|`Deployment` |`pickle`, `flask`, `ensemble`, `pandas`|[Click](https://github.com/saianil58/Model_Deployment)|
 |Clustering of Different Cars|`UnSupervised learning` |`plotly`, `AgglomerativeClustering`, `K-Means`, `Dendograms`, `silhouette`|[Click](https://nbviewer.jupyter.org/github/saianil58/Unsupervised-Learning/blob/master/Cars%20Clustering%20.ipynb)|
+
+Please, scroll down to see the details of projects comprehensively and visit their repository.
+
+### Keras Model Deployment
+
+### Telecom Churn Classification using Spark
+
+### Fashion MNIST Classification
+
+### Bank Churn Prediction using ANN
+
+### HR Analytics and classification using ANN
+
+### ML Model Deployment
+
+### Clustering of Different Cars
