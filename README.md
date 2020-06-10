@@ -7,4 +7,4 @@ You may reach me whenever you want to get further information about projects.
 
 |__Problem__|__Methods__|__Libs__|__Repo__|
 |-|-|-|-|
-|Keras Model Deployment|`Deployment`, `Deep Learning` |`Keras`, `flask`|[Click](https://github.com/saianil58/Keras-Model-Deployment)|
+|Keras Model Deployment|`Deployment`, `Deep Learning` |`Keras`, `Flask`, `PIL`, `base64`|[Click](https://github.com/saianil58/Keras-Model-Deployment)|
