@@ -10,26 +10,33 @@ You may reach me whenever you want to get further information about projects.
 ### Index
 |__Problem__|__Methods__|__Libs__|__Repo__|
 |-|-|-|-|
-|[Keras Model Deployment](#Keras-Model-Deployment)|`Deployment`, `Deep Learning` |`Keras`, `Flask`, `PIL`, `base64`|[Click](https://github.com/saianil58/Keras-Model-Deployment)|
-|Telecom Churn Classification using Spark|`Classification`, `GBTClassifier`, `RandomForestClassifier`, `DecisionTreeClassifier` |`pyspark`, `koalas`, `mllib`|[Click](https://nbviewer.jupyter.org/github/saianil58/ML-with-SPARK/blob/master/Churn%20Classification%20Spark.ipynb)|
-|Fashion MNIST Classification|`Classification`, `DeepLearning`, `ANN` |`Keras`, `plotly`|[Click](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/master/Image%20Classifications/Fashion_images.ipynb)|
-|Bank Churn Prediction using ANN|`Classification`, `DeepLearning`, `ANN`, `Statistical Tests` |`Keras`, `AutoViz`, `plotly`, `pandas`, `seaborn`, `TALOS`|[Click](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/master/Binary%20Classification/Bank%20Churn%20Prediction%20using%20ANN.ipynb)|
-|HR Analytics and classification using ANN|`Classification`, `DeepLearning`, `ANN` |`Keras`, `AutoViz`, `plotly`, `pandas`, `seaborn`,`StratifiedKFold`|[Click](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/master/Binary%20Classification/binary_classification_keras.ipynb)|
-|ML Model Deployment|`Deployment` |`pickle`, `flask`, `ensemble`, `pandas`|[Click](https://github.com/saianil58/Model_Deployment)|
-|Clustering of Different Cars|`UnSupervised learning` |`plotly`, `AgglomerativeClustering`, `K-Means`, `Dendograms`, `silhouette`|[Click](https://nbviewer.jupyter.org/github/saianil58/Unsupervised-Learning/blob/master/Cars%20Clustering%20.ipynb)|
+|[Tensorflow Keras Model Deployment](#Tensorflow-Keras-Model-Deployment)|`Deployment`, `Deep Learning` |`Keras`, `Flask`, `PIL`, `base64`|[Click](https://github.com/saianil58/Keras-Model-Deployment)|
+|[Telecom Churn Classification using Spark](#Telecom-Churn-Classification-using-Spark)|`Classification`, `GBTClassifier`, `RandomForestClassifier`, `DecisionTreeClassifier` |`pyspark`, `koalas`, `mllib`|[Click](https://nbviewer.jupyter.org/github/saianil58/ML-with-SPARK/blob/master/Churn%20Classification%20Spark.ipynb)|
+|[Fashion MNIST Classification](#Fashion-MNIST-Classification)|`Classification`, `DeepLearning`, `ANN` |`Keras`, `plotly`|[Click](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/master/Image%20Classifications/Fashion_images.ipynb)|
+|[Bank Churn Prediction using ANN](#Bank-Churn-Prediction-using-ANN)|`Classification`, `DeepLearning`, `ANN`, `Statistical Tests` |`Keras`, `AutoViz`, `plotly`, `pandas`, `seaborn`, `TALOS`|[Click](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/master/Binary%20Classification/Bank%20Churn%20Prediction%20using%20ANN.ipynb)|
+|[HR Analytics and classification using ANN](#HR-Analytics-and-classification-using-ANN)|`Classification`, `DeepLearning`, `ANN` |`Keras`, `AutoViz`, `plotly`, `pandas`, `seaborn`,`StratifiedKFold`|[Click](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/master/Binary%20Classification/binary_classification_keras.ipynb)|
+|[ML Model Deployment](#ML-Model-Deployment)|`Deployment` |`pickle`, `flask`, `ensemble`, `pandas`|[Click](https://github.com/saianil58/Model_Deployment)|
+|[Clustering of Different Cars](#Clustering-of-Different-Cars)|`UnSupervised learning` |`plotly`, `AgglomerativeClustering`, `K-Means`, `Dendograms`, `silhouette`|[Click](https://nbviewer.jupyter.org/github/saianil58/Unsupervised-Learning/blob/master/Cars%20Clustering%20.ipynb)|
 
 Please, scroll down to see the details of projects comprehensively and visit their repository.
 
-### Keras Model Deployment
+### Tensorflow Keras Model Deployment
+---
 
 ### Telecom Churn Classification using Spark
+---
 
 ### Fashion MNIST Classification
+---
 
 ### Bank Churn Prediction using ANN
+---
 
 ### HR Analytics and classification using ANN
+---
 
 ### ML Model Deployment
+---
 
 ### Clustering of Different Cars
+---
