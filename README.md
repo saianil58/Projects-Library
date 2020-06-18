@@ -40,6 +40,8 @@ There are multiple python libraries for this task.
 2. LIME
 3. SHAP
 
+Practical classification task with mutliple blackbox models and their interpretations are in the [Repo](https://nbviewer.jupyter.org/github/saianil58/Model-Interpretability/blob/master/Introduction%20to%20Model%20Interpretability.ipynb)
+
 More details are [here](https://github.com/saianil58/Model-Interpretability/blob/master/README.md)
 
 ### Tensorflow Keras Model Deployment
