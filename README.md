@@ -10,7 +10,7 @@ You may reach me whenever you want to get further information about projects.
 ### Index
 |__Problem__|__Methods__|__Libs__|__Repo__|
 |-|-|-|-|
-|[Model Interpretability](#Model-Interpretability)|`Interpretation`, `Deep Learning` |`SHAP`, `ELI5`, `LIME`, `XGB`, `Random Forests`|[Click](https://nbviewer.jupyter.org/github/saianil58/Model-Interpretability/blob/master/Introduction%20to%20Model%20Interpretability.ipynb)|
+|[Model Interpretability](#Model-Interpretability)|`Interpretation`, `Deep Learning`, `pipeline` |`SHAP`, `ELI5`, `LIME`, `XGB`, `Random Forests`|[Click](https://nbviewer.jupyter.org/github/saianil58/Model-Interpretability/blob/master/Introduction%20to%20Model%20Interpretability.ipynb)|
 |[Tensorflow Keras Model Deployment](#Tensorflow-Keras-Model-Deployment)|`Deployment`, `Deep Learning` |`Keras`, `Flask`, `PIL`, `base64`|[Click](https://github.com/saianil58/Keras-Model-Deployment)|
 |[Telecom Churn Classification using Spark](#Telecom-Churn-Classification-using-Spark)|`Classification`, `GBTClassifier`, `RandomForestClassifier`, `DecisionTreeClassifier` |`pyspark`, `koalas`, `mllib`|[Click](https://nbviewer.jupyter.org/github/saianil58/ML-with-SPARK/blob/master/Churn%20Classification%20Spark.ipynb)|
 |[Fashion MNIST Classification](#Fashion-MNIST-Classification)|`Classification`, `DeepLearning`, `ANN` |`Keras`, `plotly`|[Click](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/master/Image%20Classifications/Fashion_images.ipynb)|
