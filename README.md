@@ -81,7 +81,7 @@ Spark, is a framework based on Hadoop technologies that provide far more flexibi
 
 The Spark ML framework allows developers to use Spark for data processing at scale while building machine learning models.
 
-Here is a notebook (https://lnkd.in/gz8PFZH) to predict churn from telecom data
+[Here is a notebook](https://nbviewer.jupyter.org/github/saianil58/ML-with-SPARK/blob/master/Churn%20Classification%20Spark.ipynb) to predict churn from telecom data
 
 I have used many concepts like
 1. Koalas
