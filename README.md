@@ -72,7 +72,7 @@ We just need to write any number in the white box and click on predict button an
 
 ### Telecom Churn Classification using Spark
 ---
-![Image](https://www.websystemer.no/wp-content/uploads/2020/06/telecom-churn-prediction-challenge.jpg)
+![Image](https://miro.medium.com/max/3384/1*WqId29D5dN_8DhiYQcHa2w.png)
 
 Customer Churn is a bigger problem for most of the companies. If we can identify the potential customers who could be leaving the company, we can take precautionary measures and retain the customers. This project deals with Telecom data and uses pyspark which helps in working with larger datasets in organizations with massive data.
 
