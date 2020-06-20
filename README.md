@@ -72,6 +72,24 @@ We just need to write any number in the white box and click on predict button an
 
 ### Telecom Churn Classification using Spark
 ---
+![Image](https://www.websystemer.no/wp-content/uploads/2020/06/telecom-churn-prediction-challenge.jpg)
+
+Customer Churn is a bigger problem for most of the companies. If we can identify the potential customers who could be leaving the company, we can take precautionary measures and retain the customers. This project deals with Telecom data and uses pyspark which helps in working with larger datasets in organizations with massive data.
+
+![Image](https://www.edureka.co/blog/wp-content/uploads/2018/07/PySpark-logo-1.jpeg)
+Spark, is a framework based on Hadoop technologies that provide far more flexibility and usability than traditional Hadoop. It is probably the best tool for managing and analyzing large datasets, aka Big Data.
+
+The Spark ML framework allows developers to use Spark for data processing at scale while building machine learning models.
+
+Here is a notebook (https://lnkd.in/gz8PFZH) to predict churn from telecom data
+
+I have used many concepts like
+1. Koalas
+2. Preprocessing in Spark
+3. Data Visualisation
+4. Building pipelines and generating Feature importances
+5. Compare different models
+6. Insights learned from the whole process
 
 ### Fashion MNIST Classification
 ---
