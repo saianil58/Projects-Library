@@ -46,7 +46,6 @@ More details are [here](https://github.com/saianil58/Model-Interpretability/blob
 
 ### Tensorflow Keras Model Deployment
 ---
-# Keras-Model-Deployment
 
 Often there’s a need to abstract away your machine learning model details and just deploy or integrate it with easy to use API endpoints. For eg., We can provide a URL endpoint using which anyone can make a POST request and they would get a JSON response of what the model has inferred without having to worry about its technicalities.
 
