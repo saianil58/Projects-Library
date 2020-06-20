@@ -23,7 +23,6 @@ Please, scroll down to see the details of projects comprehensively and visit the
 
 ### Model Interpretability
 ---
-# Model-Interpretability
 
 ## Please Explain your Predictions?
 
