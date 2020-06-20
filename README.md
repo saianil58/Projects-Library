@@ -96,6 +96,14 @@ I have used many concepts like
 
 ### Bank Customer Churn Modelling using Neural Networks
 ---
+![Image]https://orzota.com/wp-content/uploads/2014/04/churn_prediction_with_Dato.png
+#### A Definition of Customer Churn
+
+Simply put, customer churn occurs when customers or subscribers stop doing business with a company or service. Also known as customer attrition, customer churn is a critical metric because it is much less expensive to retain existing customers than it is to acquire new customers – earning business from new customers means working leads all the way through the sales funnel, utilizing your marketing and sales resources throughout the process. Customer retention, on the other hand, is generally more cost-effective as you’ve already earned the trust and loyalty of existing customers.
+
+Customer churn impedes growth, so companies should have a defined method for calculating customer churn in a given period of time. By being aware of and monitoring churn rate, organizations are equipped to determine their customer retention success rates and identify strategies for improvement.
+
+![Image](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/Introduction-to-Artificial-Neural-Networks-1280x720.jpg)
 This Kaggle project involves building an ANN-based churn model which can determine whether certain bank customers will continue using their service or not. The ANN model analyzes the relationship between customer churn & multiple independent variables affecting churn. Recommendations for improvements in service were suggested based on the results of the analysis.
 
 #### Skills and Tools
