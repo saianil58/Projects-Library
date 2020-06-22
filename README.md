@@ -10,6 +10,7 @@ You may reach me whenever you want to get further information about projects.
 ### Index
 |__Problem__|__Methods__|__Libs__|__Repo__|
 |-|-|-|-|
+|[RTA using Spark](#RTA-using-Spark)|`Spark Streaming`, `Twitter`, `Real Time Analytics` |`StreamListener`, `Spark`|[Click](https://github.com/saianil58/ML-with-SPARK/tree/master/RTA)|
 |[Model Interpretability](#Model-Interpretability)|`Interpretation`, `Deep Learning`, `pipeline` |`SHAP`, `ELI5`, `LIME`, `XGB`, `Random Forests`|[Click](https://nbviewer.jupyter.org/github/saianil58/Model-Interpretability/blob/master/Introduction%20to%20Model%20Interpretability.ipynb)|
 |[Tensorflow Keras Model Deployment](#Tensorflow-Keras-Model-Deployment)|`Deployment`, `Deep Learning` |`Keras`, `Flask`, `PIL`, `base64`|[Click](https://github.com/saianil58/Keras-Model-Deployment)|
 |[Telecom Churn Classification using Spark](#Telecom-Churn-Classification-using-Spark)|`Classification`, `GBTClassifier`, `RandomForestClassifier`, `DecisionTreeClassifier` |`pyspark`, `koalas`, `mllib`|[Click](https://nbviewer.jupyter.org/github/saianil58/ML-with-SPARK/blob/master/Churn%20Classification%20Spark.ipynb)|
