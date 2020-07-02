@@ -24,7 +24,8 @@ Please, scroll down to see the details of projects comprehensively and visit the
 
 ### Real Time Analytics using SPARK 
 ---
-
+Real Time Analytics is a growing feild where data would be streaming continously and analysis would be done on the data.
+![Image](https://www.mentionlytics.com/wp-content/uploads/2020/01/Nine-Free-Hashtag-Tracking-Tools-to-Use-for-Higher-Post-Reach.jpg)
 ### Model Interpretability
 ---
 
