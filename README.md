@@ -26,7 +26,9 @@ Please, scroll down to see the details of projects comprehensively and visit the
 ### Google Street View House Numbers Recognition
 ---
 Object recognition and image processing has become one of the hottest topics in machine learning due to its vast and creative potential applications in the real world. The ability to process visual information using machine learning algorithms can be very useful, such as measuring the quality of NYC Bike Lanes through street imagery. Within this field, Within this field, the Street View House Numbers (SVHN) dataset is one of the most popular ones. It has been used in neural networks created by Google to read house numbers and match them to their geolocations. This is a great benchmark dataset to play with, learn and train models that accurately identify street numbers, and incorporate into all sorts of projects.
+
 ![Image](https://cdn.images.express.co.uk/img/dynamic/25/590x/Google-Maps-Man-climbing-window-950482.jpg)
+
 In this project we try to predict the numbers from Images and this is achived by using ANN model built in KERAS
 
 ### Real Time Analytics using SPARK 
