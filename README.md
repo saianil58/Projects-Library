@@ -110,6 +110,7 @@ I have used many concepts like
 ### Fashion MNIST Classification
 ---
 ![Image](https://classic.d2l.ai/_images/output_fashion-mnist_745d26_9_0.png)
+Fashion Data set contains images of different kinds of apprels and thier labels. This is very similar to MNIST data and used for training process of anyone starting off their journey with deep learning.
 
 ### Bank Customer Churn Modelling using Neural Networks
 ---
