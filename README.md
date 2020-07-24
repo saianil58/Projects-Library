@@ -20,8 +20,7 @@ You may reach me whenever you want to get further information about projects.
 |[HR Analytics and classification using ANN](#HR-Analytics-and-classification-using-ANN)|`Classification`, `DeepLearning`, `ANN` |`Keras`, `AutoViz`, `plotly`, `pandas`, `seaborn`,`StratifiedKFold`|[Click](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/master/Binary%20Classification/binary_classification_keras.ipynb)|
 |[ML Model Deployment](#ML-Model-Deployment)|`Deployment` |`pickle`, `flask`, `ensemble`, `pandas`|[Click](https://github.com/saianil58/Model_Deployment)|
 |[Clustering cars based on attributes](#Clustering-cars-based-on-attributes)|`UnSupervised learning` |`plotly`, `AgglomerativeClustering`, `K-Means`, `Dendograms`, `silhouette`|[Click](https://nbviewer.jupyter.org/github/saianil58/Unsupervised-Learning/blob/master/Cars%20Clustering%20.ipynb)|
-|[Credit Defaulters Prediction](#Credit Defaulters Prediction)|`Supervised learning` |`plotly`, `AgglomerativeClustering`, `K-Means`, `Dendograms`, `silhouette`|[Click](https://nbviewer.jupyter.org/github/saianil58/Unsupervised-Learning/blob/master/Cars%20Clustering%20.ipynb)|
-(https://nbviewer.jupyter.org/github/saianil58/Supervised-Learning/blob/master/Classifications/Defaulter_Prediction/German_Credit.ipynb)
+
 
 Please, scroll down to see the details of projects comprehensively and visit their repository.
 
