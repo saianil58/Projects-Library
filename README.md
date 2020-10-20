@@ -10,6 +10,7 @@ You may reach me whenever you want to get further information about projects.
 ### Index
 |__Problem__|__Methods__|__Libs__|__Repo__|
 |-|-|-|-|
+|[How to arrange a ML Project](#How-to-arrange-a-ML-Project)|`K Fold Cross validation`, `Tuning`, |`Scikit Learn`|[Click](https://github.com/saianil58/How_to_arrange-projects)|
 |[Google Street View Images Recognition](#Google-Street-View-House-Numbers-Recognition)|`Deep Learning`, `ANN`, `Image Recognition` ,`Hyper-Param Tuning`|`Google Street view Dataset`,`Keras`, `Talos` , `Scikit Learn`|[Click](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/97c2e874aa922fbf5d3073156f29cceac88171c4/Image%20Classifications/The%20Street%20View%20House%20Numbers.ipynb)|
 |[Real Time Analytics using SPARK](#Real-Time-Analytics-using-SPARK)|`Spark Streaming`, `Twitter`, `Real Time Analytics` |`StreamListener`, `Spark`|[Click](https://github.com/saianil58/ML-with-SPARK/tree/master/RTA)|
 |[Model Interpretability](#Model-Interpretability)|`Interpretation`, `Deep Learning`, `pipeline` |`SHAP`, `ELI5`, `LIME`, `XGB`, `Random Forests`|[Click](https://nbviewer.jupyter.org/github/saianil58/Model-Interpretability/blob/master/Introduction%20to%20Model%20Interpretability.ipynb)|
@@ -23,6 +24,17 @@ You may reach me whenever you want to get further information about projects.
 
 
 Please, scroll down to see the details of projects comprehensively and visit their repository.
+### How to arrange a ML Project
+---
+Jupyter notebooks are great! but they wont help you if you want to run things fast or in parallel or in a LINUX env.
+
+In Industry projects in general follow the below example.
+
+![Image](https://github.com/saianil58/How_to_arrange-projects/blob/main/Capture.JPG)
+
+This project shows an simple classification example of Predicting if a person has diabetes or not.
+
+Repo link : [Click](https://github.com/saianil58/How_to_arrange-projects)
 
 ### Google Street View House Numbers Recognition
 ---
