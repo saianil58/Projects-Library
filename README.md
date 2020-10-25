@@ -10,6 +10,7 @@ You may reach me whenever you want to get further information about projects.
 ### Index
 |__Problem__|__Methods__|__Libs__|__Repo__|
 |-|-|-|-|
+|[Service Request Management using NLP](#Service-Request-Management-using-NLP)|`NLP`,`Text Processing`,`TF-IDF`,`Deep Learning` |`Scikit Learn`,`Keras`|[Click](https://github.com/saianil58/NLP/blob/main/Service%20Request%20Classification/Notebooks/Service%20Request%20Classification.ipynb)|
 |[How to arrange a ML Project](#How-to-arrange-a-ML-Project)|`K Fold Cross validation`, `Tuning`, |`Scikit Learn`|[Click](https://github.com/saianil58/How_to_arrange-projects)|
 |[Google Street View Images Recognition](#Google-Street-View-House-Numbers-Recognition)|`Deep Learning`, `ANN`, `Image Recognition` ,`Hyper-Param Tuning`|`Google Street view Dataset`,`Keras`, `Talos` , `Scikit Learn`|[Click](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/97c2e874aa922fbf5d3073156f29cceac88171c4/Image%20Classifications/The%20Street%20View%20House%20Numbers.ipynb)|
 |[Real Time Analytics using SPARK](#Real-Time-Analytics-using-SPARK)|`Spark Streaming`, `Twitter`, `Real Time Analytics` |`StreamListener`, `Spark`|[Click](https://github.com/saianil58/ML-with-SPARK/tree/master/RTA)|
@@ -24,6 +25,22 @@ You may reach me whenever you want to get further information about projects.
 
 
 Please, scroll down to see the details of projects comprehensively and visit their repository.
+
+### Service Request Management using NLP
+![Image](https://belltechlogix.com/wp-content/uploads/2018/07/bt-srm1.jpg)
+
+The average time between service request submission and fulfillment is 32 days. That’s why 1 in 5 service requests fail.
+
+When it comes to fulfilling your service requests, how would you rate your IT department? Any time you submit a formal request for information technology -a new computer, access to an online portal or another service, a new version of a software program or information on how to use it- your IT department should have the ability to plan for these requests, even automate the fulfillment workflow, and give you a positive service experience.
+
+This problem can be addressed using NLP and automate the toughtest job at hand, To send requests to correct team.
+
+The notebook has a deepdive of the implementation and EDA and checking various options, however, DeepLearning works best with NLP.
+Notebook is here [Click](https://github.com/saianil58/NLP/blob/main/Service%20Request%20Classification/Notebooks/Service%20Request%20Classification.ipynb)
+
+Full project setup is in progress!!
+
+
 ### How to arrange a ML Project
 ---
 Jupyter notebooks are great! but they wont help you if you want to run things fast or in parallel or in a LINUX env.
