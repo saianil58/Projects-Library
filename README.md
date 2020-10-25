@@ -38,6 +38,8 @@ This problem can be addressed using NLP and automate the toughtest job at hand, 
 The notebook has a deepdive of the implementation and EDA and checking various options, however, DeepLearning works best with NLP.
 Notebook is here [Click](https://github.com/saianil58/NLP/blob/main/Service%20Request%20Classification/Notebooks/Service%20Request%20Classification.ipynb)
 
+The top classification accuracy is 98.7% with deep learning, without Tuning the networks !!!
+
 Full project setup is in progress!!
 
 
