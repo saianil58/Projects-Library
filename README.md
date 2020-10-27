@@ -11,6 +11,7 @@ You may reach me whenever you want to get further information about projects.
 |__Problem__|__Methods__|__Libs__|__Repo__|
 |-|-|-|-|
 |[Service Request Management using NLP](#Service-Request-Management-using-NLP)|`NLP`,`Text Processing`,`TF-IDF`,`Deep Learning` |`Scikit Learn`,`Keras`|[Click](https://github.com/saianil58/NLP/blob/main/Service%20Request%20Classification/Notebooks/Service%20Request%20Classification.ipynb)|
+|[Adult Income Prediction Project](#Adult-Income-Prediction-Project)|`One Hot Encoding`,`Label encoding`,`Target Mean encoding`,`K-fold` |`Scikit Learn`,`Keras`|[Click](https://github.com/saianil58/Supervised-Learning/tree/master/Classifications/Adult%20Income)|
 |[How to arrange a ML Project](#How-to-arrange-a-ML-Project)|`K Fold Cross validation`, `Tuning`, |`Scikit Learn`|[Click](https://github.com/saianil58/How_to_arrange-projects)|
 |[Google Street View Images Recognition](#Google-Street-View-House-Numbers-Recognition)|`Deep Learning`, `ANN`, `Image Recognition` ,`Hyper-Param Tuning`|`Google Street view Dataset`,`Keras`, `Talos` , `Scikit Learn`|[Click](https://nbviewer.jupyter.org/github/saianil58/Artificial-Neural-Networks/blob/97c2e874aa922fbf5d3073156f29cceac88171c4/Image%20Classifications/The%20Street%20View%20House%20Numbers.ipynb)|
 |[Real Time Analytics using SPARK](#Real-Time-Analytics-using-SPARK)|`Spark Streaming`, `Twitter`, `Real Time Analytics` |`StreamListener`, `Spark`|[Click](https://github.com/saianil58/ML-with-SPARK/tree/master/RTA)|
@@ -42,6 +43,9 @@ The top classification accuracy is 98.7% with deep learning, without Tuning the 
 
 Full project setup is in progress!!
 
+### Adult Income Prediction Project
+The main idea behind this project is to understand different ways to treat categorical variables and use them in classification setting.
+repo is here [Click](https://github.com/saianil58/Supervised-Learning/tree/master/Classifications/Adult%20Income)
 
 ### How to arrange a ML Project
 ---
