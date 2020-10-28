@@ -25,7 +25,7 @@ You may reach me whenever you want to get further information about projects.
 |[Clustering cars based on attributes](#Clustering-cars-based-on-attributes)|`UnSupervised learning` |`plotly`, `AgglomerativeClustering`, `K-Means`, `Dendograms`, `silhouette`|[Click](https://nbviewer.jupyter.org/github/saianil58/Unsupervised-Learning/blob/master/Cars%20Clustering%20.ipynb)|
 
 
-Please, scroll down to see the details of projects comprehensively and visit their repository.
+Please, scroll down to see the details of projects comprehensively and visit their repository. 
 
 ### Service Request Management using NLP
 ![Image](https://belltechlogix.com/wp-content/uploads/2018/07/bt-srm1.jpg)
